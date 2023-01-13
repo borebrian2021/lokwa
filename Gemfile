@@ -13,6 +13,8 @@ gem "mysql2", "~> 0.5"
 gem "puma", "~> 5.0"
 gem "sqlite3", "~> 1.4"
 
+gem 'bcrypt', '~> 3.1.7'
+
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 # gem "jbuilder"
 
